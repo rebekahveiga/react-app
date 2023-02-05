@@ -21,3 +21,5 @@ gh pr create -b update_logo -h master
 
 Step 8 - Merge the PR
 gh pr merge 1
+
+ # REPO_URL <https://github.com/rebekahveiga/react-app>
